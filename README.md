@@ -2,9 +2,9 @@
 
 Here is a simple dbscan source code implemented by Java programming Language. 
 
-It is very simple to use
+It is very simple to use.
 
-
+In this implementation, we used approximated value for finding epsilon parameter by using sampling technique. 
 
 FILE DESCRIPTION
 - ApproxEpsilon : Finding eps parameter by approximation
